@@ -1,0 +1,11 @@
+{
+  "name": "my-discord-bot",
+  "version": "1.0.0",
+  "description": "A Discord bot that promotes members in a Roblox group",
+  "main": "index.js",
+  "dependencies": {
+    "discord.js": "^13.4.8",
+    "dotenv": "^10.0.0",
+    "noblox.js": "^4.6.0"
+  }
+}
